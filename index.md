@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+# Brian Kimani   
+### Aspiring Data Engineer 
 
-You can use the [editor on GitHub](https://github.com/mbkimani/mbkimani.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website showcases the projects I have worked on to widen my data engineering skill-set.
+ 
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Stay posted for new content
 
 ```markdown
 Syntax highlighted code block
